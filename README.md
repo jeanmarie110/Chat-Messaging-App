@@ -1,15 +1,15 @@
-# Chat/Messaging App Light and Dark Theme - Flutter UI
+# Thème clair et sombre de l'application de chat/messagerie - Flutter UI
 
-## [Watch it on YouTube](https://youtu.be/uiJF-ShOLyo)
+## [Regardez-le sur YouTube] (https://www.youtube.com/channel/UCpFAc6I0Rr8FrIEmwdMyg0w)
 
-**Packages we are using:**
+**Forfaits que nous utilisons :**
 
-- goole_fonts: [link](https://pub.dev/packages/google_fonts)
+- goole_fonts : [lien](https://pub.dev/packages/google_fonts)
 
-Today we gonna build messing/chat app #ui using #flutter that runs both Android and iOS devices also has a dark and light theme. We create in total 4 screens all of that support both Dark Theme and Light Theme. At first, we design a welcome screen that contains an image with a tag line also has a skip button. Once the user press, its transfers to the Sign-in or Sign-up screen. The last two screens are the main screen, Chats screens it shows the list of people you are chated with. At the end message screen which support text message, audio message, and video messages.
+Aujourd'hui, nous allons créer une application de messagerie/chat #ui à l'aide de #flutter qui exécute à la fois les appareils Android et iOS et a également un thème sombre et clair. Nous créons au total 4 écrans qui prennent tous en charge le thème sombre et le thème clair. Dans un premier temps, nous concevons un écran de bienvenue qui contient une image avec un slogan et a également un bouton de saut. Une fois que l'utilisateur appuie sur, il passe à l'écran de connexion ou d'inscription. Les deux derniers écrans sont l'écran principal, les écrans de discussion, il affiche la liste des personnes avec lesquelles vous discutez. À l'écran de message de fin qui prend en charge les messages texte, les messages audio et les messages vidéo.
 
-### Chat/Messaging App Light and Dark Theme Final UI
+### Application de discussion/messagerie Interface utilisateur finale des thèmes clairs et sombres
 
-![Preview](/gif.gif)
+![Aperçu](/gif.gif)
 
-![App UI](/ui.png)
+![Interface utilisateur de l'application](/ui.png)
